@@ -60,7 +60,7 @@ from datetime import datetime
 
 # Page configuration
 st.set_page_config(
-    page_title="🎬 IMDB Sentiment Analyzer",
+    page_title="IMDB Sentiment Analyzer",
     page_icon="🎬",
     layout="wide",
     initial_sidebar_state="expanded"
