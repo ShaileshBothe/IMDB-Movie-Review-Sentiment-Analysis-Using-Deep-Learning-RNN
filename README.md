@@ -4,7 +4,7 @@ A deep learning-powered web application that analyzes movie review sentiment usi
 
 ## 🌐 Live Demo
 
-**[🚀 Deploy Your App Here](https://your-deployment-link.com)**
+**[🚀 Check-out the application here (Deployed)](https://imdb-movie-review-sentiment-analysis-using-deep-learning-rnn-i.streamlit.app/)**
 
 
 ---
